@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{422:function(t,n,s){"use strict";s.r(n);var e=s(2),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("在互联网上冲浪，会与很多思想进行碰撞，为警示自己和启示自己，故将深深触动我的部分进行摘录与收藏，希望不同时间的回味能够带来不同的感触！")])])}),[],!1,null,null,null);n.default=o.exports}}]);
