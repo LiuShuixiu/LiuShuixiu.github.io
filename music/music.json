@@ -1,0 +1,154 @@
+{
+  "updatedAt": "2026-08-01T11:09:21.585Z",
+  "type": "albums",
+  "total": 16,
+  "fromAppleMusic": 16,
+  "fromSpotify": 0,
+  "inBoth": 0,
+  "albums": [
+    {
+      "title": "some kind of peace",
+      "artist": "奥拉佛・阿纳尔德斯",
+      "cover": "am_6630257209404524315.jpg",
+      "trackCount": "10",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Ping Pong (Original Soundtrack)",
+      "artist": "牛尾宪辅",
+      "cover": "am_4082416893600288517.jpg",
+      "trackCount": "42",
+      "lovedCount": "6",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Addison",
+      "artist": "Addison Rae",
+      "cover": "am_16079309325265273089.jpg",
+      "trackCount": "0",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "C,XOXO",
+      "artist": "Camila Cabello",
+      "cover": "am_210183386318793262.jpg",
+      "trackCount": "14",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Son Of Spergy",
+      "artist": "Daniel Caesar",
+      "cover": "am_3313504085772625690.jpg",
+      "trackCount": "12",
+      "lovedCount": "5",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "The Dutchess (Deluxe)",
+      "artist": "Fergie",
+      "cover": "am_7248305712598940834.jpg",
+      "trackCount": "17",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Blonde",
+      "artist": "Frank Ocean",
+      "cover": "am_115888712529878202.jpg",
+      "trackCount": "17",
+      "lovedCount": "4",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Donda",
+      "artist": "Kanye West",
+      "cover": "am_14733571153422426622.jpg",
+      "trackCount": "27",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Chemtrails Over the Country Club",
+      "artist": "Lana Del Rey",
+      "cover": "am_16503584628221600927.jpg",
+      "trackCount": "11",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "NewJeans 1st EP 'New Jeans'",
+      "artist": "NewJeans",
+      "cover": "am_2368243662313240873.jpg",
+      "trackCount": "4",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Definitely Maybe (Remastered) [Deluxe]",
+      "artist": "Oasis",
+      "cover": "am_13835630929054333707.jpg",
+      "trackCount": "11",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "High Dive",
+      "artist": "SHAED",
+      "cover": "am_9923934451930988711.jpg",
+      "trackCount": "13",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "道路工事 - Single",
+      "artist": "SHO-SENSEI!!",
+      "cover": "am_10705302570558428955.jpg",
+      "trackCount": "1",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Miss Independent - Single",
+      "artist": "Silky",
+      "cover": "am_7543412131664218508.jpg",
+      "trackCount": "1",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Sugarbread - Single",
+      "artist": "Soap&Skin",
+      "cover": "am_2724327652233360181.jpg",
+      "trackCount": "3",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    },
+    {
+      "title": "Sorry I'm Late - Single",
+      "artist": "tobi lou & FARADA",
+      "cover": "am_1752953625111694492.jpg",
+      "trackCount": "3",
+      "lovedCount": "1",
+      "inBoth": false,
+      "sources": "apple_music"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "source" : "apple_music",
+  "albums" : [
+    {
+      "artist" : "Addison Rae",
+      "lovedCount" : "1",
+      "trackCount" : "0",
+      "title" : "Addison",
+      "cover" : "am_16079309325265273089.jpg"
+    },
+    {
+      "title" : "C,XOXO",
+      "trackCount" : "14",
+      "artist" : "Camila Cabello",
+      "lovedCount" : "1",
+      "cover" : "am_210183386318793262.jpg"
+    },
+    {
+      "trackCount" : "12",
+      "cover" : "am_3313504085772625690.jpg",
+      "title" : "Son Of Spergy",
+      "lovedCount" : "5",
+      "artist" : "Daniel Caesar"
+    },
+    {
+      "trackCount" : "17",
+      "lovedCount" : "1",
+      "title" : "The Dutchess (Deluxe)",
+      "artist" : "Fergie",
+      "cover" : "am_7248305712598940834.jpg"
+    },
+    {
+      "artist" : "Frank Ocean",
+      "title" : "Blonde",
+      "trackCount" : "17",
+      "cover" : "am_115888712529878202.jpg",
+      "lovedCount" : "4"
+    },
+    {
+      "cover" : "am_14733571153422426622.jpg",
+      "lovedCount" : "1",
+      "trackCount" : "27",
+      "title" : "Donda",
+      "artist" : "Kanye West"
+    },
+    {
+      "artist" : "Lana Del Rey",
+      "cover" : "am_16503584628221600927.jpg",
+      "lovedCount" : "1",
+      "trackCount" : "11",
+      "title" : "Chemtrails Over the Country Club"
+    },
+    {
+      "trackCount" : "4",
+      "lovedCount" : "1",
+      "title" : "NewJeans 1st EP 'New Jeans'",
+      "cover" : "am_2368243662313240873.jpg",
+      "artist" : "NewJeans"
+    },
+    {
+      "trackCount" : "11",
+      "title" : "Definitely Maybe (Remastered) [Deluxe]",
+      "artist" : "Oasis",
+      "lovedCount" : "1",
+      "cover" : "am_13835630929054333707.jpg"
+    },
+    {
+      "artist" : "SHAED",
+      "lovedCount" : "1",
+      "title" : "High Dive",
+      "cover" : "am_9923934451930988711.jpg",
+      "trackCount" : "13"
+    },
+    {
+      "artist" : "SHO-SENSEI!!",
+      "cover" : "am_10705302570558428955.jpg",
+      "title" : "道路工事 - Single",
+      "lovedCount" : "1",
+      "trackCount" : "1"
+    },
+    {
+      "trackCount" : "1",
+      "title" : "Miss Independent - Single",
+      "artist" : "Silky",
+      "cover" : "am_7543412131664218508.jpg",
+      "lovedCount" : "1"
+    },
+    {
+      "trackCount" : "3",
+      "cover" : "am_2724327652233360181.jpg",
+      "title" : "Sugarbread - Single",
+      "lovedCount" : "1",
+      "artist" : "Soap&Skin"
+    },
+    {
+      "lovedCount" : "1",
+      "cover" : "am_1752953625111694492.jpg",
+      "trackCount" : "3",
+      "title" : "Sorry I'm Late - Single",
+      "artist" : "tobi lou & FARADA"
+    },
+    {
+      "lovedCount" : "1",
+      "cover" : "am_6630257209404524315.jpg",
+      "artist" : "奥拉佛・阿纳尔德斯",
+      "trackCount" : "10",
+      "title" : "some kind of peace"
+    },
+    {
+      "title" : "Ping Pong (Original Soundtrack)",
+      "cover" : "am_4082416893600288517.jpg",
+      "trackCount" : "42",
+      "artist" : "牛尾宪辅",
+      "lovedCount" : "6"
+    }
+  ],
+  "exportedAt" : "2026-08-01T11:09:21Z"
+}
